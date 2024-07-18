@@ -19,8 +19,8 @@
   },
   "homepage": "https://github.com/11ty/api-screenshot#readme",
   "dependencies": {
-    "@netlify/functions": "^1.0.0",
-    "@sparticuz/chromium": "^108.0.0",
-    "puppeteer-core": "^19.2.2"
+    "@netlify/functions": "^2.8.1",
+    "@sparticuz/chromium": "^126.0.0",
+    "puppeteer-core": "^22.13.1"
   }
 }
